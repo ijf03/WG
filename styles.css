@@ -7,7 +7,7 @@ nav {
 .navbar-dark .navbar-nav .nav-link,
 .navbar-dark .navbar-brand {
     color: #a793e9;
-}
+}F
 
 .navbar-dark .navbar-nav .nav-link:hover,
 .navbar-dark .navbar-brand:hover {
@@ -311,7 +311,7 @@ h2, h5, h1 {
 }
 
 /* LinkedIn Icon */
-.linkedin {
+.twitter {
     background: #007bb5;
     color: white;
 }
@@ -339,16 +339,21 @@ h2, h5, h1 {
     }
 }
 
+/* === TIME LINE === */
+
+
+
 
 
 /* === CODM PORTFOLIO PAGE === */
 
 
 /* Top Section */
-#codm-section {
+#game-section {
     background-size: cover; 
     background-position: center center;
     text-align: center;
+    width: 100%;
 }
 
 
